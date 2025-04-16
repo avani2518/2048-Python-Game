@@ -3,7 +3,7 @@
 
 📌 2048 Python Game is a terminal-based version of the popular 2048 puzzle game. Built using Python, it replicates the original gameplay with arrow key movement, tile merging logic, and win/loss detection — all in a simple, text-based interface.
 
-🎮 Game Features
+🎮 Game Features:
 
 1️⃣ Grid-Based Gameplay:
 4x4 game board initialized with two random tiles.
